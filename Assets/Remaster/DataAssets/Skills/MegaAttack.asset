@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc65b9b4e8136f4ca261616bbf69513, type: 3}
+  m_Name: MegaAttack
+  m_EditorClassIdentifier: 
+  _name: MegaAttack
+  _icon: {fileID: -1409923208, guid: aefb0650a1d7ea84399ac0000cedf62e, type: 3}
+  _rollBackTime: 3
+  _radius: 10
+  _applicationArea: 0
+  _curentRollBack: 0
+  _isReadyToUse: 0
+  _waitTime: 0.3
+  _damage: 38

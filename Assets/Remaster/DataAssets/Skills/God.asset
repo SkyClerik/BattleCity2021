@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096fb860156e72648bf193f3b7f6dc10, type: 3}
+  m_Name: God
+  m_EditorClassIdentifier: 
+  _name: God
+  _icon: {fileID: -424222742, guid: aefb0650a1d7ea84399ac0000cedf62e, type: 3}
+  _rollBackTime: 20
+  _radius: 0
+  _applicationArea: 1
+  _curentRollBack: 0
+  _isReadyToUse: 0
+  _waitTime: 0

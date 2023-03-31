@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0fd60775cd4259c4fa629fa5533a73da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _bagListData: {fileID: 11400000, guid: 95c436e5c1ec68d4189ee79f315d14aa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
